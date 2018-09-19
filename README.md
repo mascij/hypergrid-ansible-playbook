@@ -10,6 +10,12 @@ Populate the following variables with the data from you environment:
 * **hcp_blueprint** - Blueprint ID, which can be found by clicking the blueprint in the App Store
 * **hcp_cloudprovider** - Find cloudprovider and resourcepool by using curl --user <api access key>:<api secret key> <hypercloud_url>/api/blueprints/<hcp_blueprint>
 * **hcp_resourcepool** - See note above
+  
+  ### Run
+  
+  `ansible-playbook hypercloud-ansible-playbook.yml`
+  
+  done!
 
 
 ![demo](https://raw.githubusercontent.com/mascij/hypergrid-ansible-playbook/master/hypercloud-ansible.gif)
