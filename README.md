@@ -12,6 +12,8 @@ Populate the following variables with the data from you environment:
 * **hcp_resourcepool** - See note above
 
 
+![demo](https://raw.githubusercontent.com/mascij/hypergrid-ansible-playbook/master/hypercloud-ansible.gif)
+
 
 ```
 ---
